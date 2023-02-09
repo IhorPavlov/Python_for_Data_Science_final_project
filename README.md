@@ -9,4 +9,4 @@
 3. Інтерпритація результатів - вам потрібно описати, що означає досягнута метрика для бізнесу і показати що модель працює коректно на різних даних. Також буде оцінюватися ваше вміння презентувати результат - Оцінювання 10%
 
 Дані:
-- https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
+- https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?datasetId=6294&sortBy=voteCount
